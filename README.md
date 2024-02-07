@@ -2,24 +2,24 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
-# 🚦 WIP 🚦
+## 🚦 WIP 🚦
 
-## 🦒 Colab
+### 🍊 Jupyter Notebook
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/SketchVideo-colab/blob/main/SketchVideo_colab.ipynb) | SketchVideo_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/SketchVideo-colab/blob/main/SketchVideo_jupyter.ipynb) | SketchVideo_jupyter
 
-## Main Repo
+### 🧬 Code
 https://github.com/yudianzheng/SketchVideo
 
-## Paper
+### 📄 Paper
 https://arxiv.org/abs/2311.15306
 
-## Page
+### 🌐 Page
 https://sketchvideo.github.io/
 
-## Output
+### 🖼 Output
 
-## Sponsor
+### 🏢 Sponsor
 https://modelslab.com
