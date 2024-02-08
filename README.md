@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/SketchVideo-colab/blob/main/SketchVideo_jupyter.ipynb) | SketchVideo_jupyter (Pro Colab 😭)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/SketchVideo-jupyter/blob/main/SketchVideo_jupyter.ipynb) | SketchVideo_jupyter (Pro Colab 😭)
 
 ### 📋 Tutorial
 Copy paste the folder name to the cell
