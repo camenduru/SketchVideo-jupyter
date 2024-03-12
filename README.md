@@ -29,4 +29,4 @@ https://sketchvideo.github.io/
 
 
 ### 🏢 Sponsor
-https://modelslab.com
+https://replicate.com
